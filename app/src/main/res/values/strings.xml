@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IoGT</string>
+    <string name="activity_sample_device_admin">device_admin</string>
+    <string name="sample_device_admin_description">descrizione</string>
+    <string name="sample_device_admin">admin</string>
+    <string name="hello">Hello World, DevicePolicyDemoActivity!</string>
+    <string name="enable_device_admin">Enable Device Admin</string>
+    <string name="lock_device">Lock Device</string>
+    <string name="reset_device">Reset Device</string>
+    <string name="device_admin_enabled">Device Admin Enabled</string>
+    <string name="device_admin_disabled">Device Admin Disabled</string>
+    <string name="camera">Camera</string>
+    <string name="IoGT_description">IoGT Example App</string>
+    <string name="camera_on">Camera is Enabled</string>
+    <string name="camera_off">Camera is Disabled</string>
+
+</resources>
